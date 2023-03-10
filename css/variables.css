@@ -1,0 +1,21 @@
+:root {
+    /*цвет*/
+    --primary-backgroun-color: #EBF3F5;
+    --secondary-backgroun-color: #E5E5E5;
+    --third-backgroun-color:#5C8692;
+    --primary-backgroun-color-hover: #EBF3F5;
+
+    /*текст по умолчанию*/
+    --font-size: 16px;
+    --line-height: 1.5;
+    --text-color: #555555; 
+    --text-color-secondary: #5C8692;
+
+    /*шрифты*/
+    --primary-font: 'Playfair Display';
+    --secondary-font: 'Manrope';
+    --section-title: 32px;
+
+  
+}
+
